@@ -1,5 +1,5 @@
 ### Project Name : 장애물 감지 패션 서비스
-캡스톤 13조_ On My Way
+캡스톤 13조_ OMW
 
 ### I 프로젝트 개요
 요즘 4차 산업 혁명이 두각을 나타내면서 우리의 삶은 점점 스마트하게 발전하고 있다. 
@@ -14,11 +14,19 @@ IoT 기술을 응용한 많은 기술들이 우리를 편리하게 해주는 반
 
 - 김수희(팀장) 
 
+![Alt text](/doc/pic/suhee.jpg)
+
 - 김재희
+
+![Alt text](/doc/pic/jaehee.jpg)
 
 - 김다솜 
 
+![Alt text](/doc/pic/dasom.jpg)
+
 - 조자
+
+![Alt text](/doc/pic/joza.jpg)
 
 
 
