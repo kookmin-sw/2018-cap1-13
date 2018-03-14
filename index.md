@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+### Project Name : 장애물 감지 패션 서비스
+캡스톤 13조_ On My Way
 
-You can use the [editor on GitHub](https://github.com/kookmin-sw/cap-template/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### I 프로젝트 개요
+요즘 4차 산업 혁명이 두각을 나타내면서 우리의 삶은 점점 스마트하게 발전하고 있다. 
+IoT 기술을 응용한 많은 기술들이 우리를 편리하게 해주는 반면에 장애인들의 영역까지는 많은 영향을 끼치지 못하고 있는 것이 현실이다. 
+그 중에서 우리는 시각장애인들을 대상으로 그들의 눈을 대신해주는 IT 서비스를 제공하려고 한다.
+앞을 보지 못하는 장애우들에게 직접 장애물을 인식하고 알려주는 시스템을 개발한다.
+이러한 시스템은 지팡이를 들고 다녀야 하는 불편함을 덜어주고 생활에 잘 녹아들 수 있게 옷에 탈부착을 할 수 있게 만든다. 
+이로서 그들의 삶이 더 편리해지기를 희망한다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### II 팀 소개
+- 지도  한광수 교수님
 
-### Markdown
+- 김수희(팀장) 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 김재희
 
-```markdown
-Syntax highlighted code block
+- 김다솜 
 
-# Header 1
-## Header 2
-### Header 3
+- 조자
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### III Abstract 
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### IV 소개 영상
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kookmin-sw/cap-template/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### V  결과 영상
