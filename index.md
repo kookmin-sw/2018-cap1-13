@@ -31,7 +31,7 @@ IoT 기술을 응용한 많은 기술들이 우리를 편리하게 해주는 반
 
 
 ### III Abstract 
-
+As the fourth industrial revolution takes off these days, our lives are growing smarter. While many of the technologies that apply IoT technology are making us more comfortable, they do not have much effect on the areas of disabled people Among them, we want to provide IT services to blind people on behalf of their eyes. We will develop a system to recognize and alert the blind to obstacles. These systems help ease the discomfort of carrying a cane and allow it to be attached and removed from a garment so that it melts in life. We hope this makes their lives more convenient.
 
 ### IV 소개 영상
 
